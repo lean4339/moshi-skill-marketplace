@@ -1,3 +1,5 @@
+> **Archived duplicate.** This package is maintained in [moshi-skill](https://github.com/lean4339/moshi-skill/tree/main/variants/marketplace). Its sources and editions have been consolidated there.
+
 # Moshi · Marketplace Editions
 
 **Preserve the modular support skill and its distribution-specific documents.**
